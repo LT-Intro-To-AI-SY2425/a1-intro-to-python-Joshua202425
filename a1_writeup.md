@@ -14,10 +14,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-
+It is less work to program in python tha in java since python is less demanding and specific on how to program things.
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+Java is very specific with things such as variable types where as python isn't but indetion in python is much more important, but both java and python are object oriented.
 
 3. What are some things that you learned through this assignment?
+
+I've learned some of the basics of python such as how to do loops and if statements, properly define functions, and change lists.
